@@ -858,12 +858,13 @@ footer {
   .navbar-toggler {
     border-radius: 0;
     background: #fff;
+    color: white !important;
   }
   .agile_banner_info h2 {
     font-size: 33px;
     letter-spacing: 1px;
   }
-  .agile_banner_margin {
+  .agile_banner_margin {6
     padding: 12em 0em 0em;
   }
   ul.navbar-nav.ml-lg-auto.text-center {
